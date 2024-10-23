@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**vmenger/vmenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vincent Menger, and I'm a Machine Learning Engineer in the University Medical Center Utrecht in the Netherlands. 
 
-Here are some ideas to get you started:
+* Currently working on NLP and AI in the clinical domain
+* Primarily technical background in AI and Computer Science
+* Obtained my PhD degree in 2019: [Knowledge Discovery in Clinical Psychiatry: Learning from Electronic Health Records](https://dspace.library.uu.nl/handle/1874/385129).
+* ~8 years of experience working as Data Scientist and/or Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Libraries
+The following public libraries are maintained (partly) by me:
+* [DEDUCE](vmenger/deduce) - A library for de-identifying clinical text written in Dutch
+* [docdeid](vmenger/docdeid) - A framework for creating de-identifiers, backbone of DEDUCE
+* [clinlp](umcu/clinlp) - A NLP pipeline library for clinical text written in Dutch
