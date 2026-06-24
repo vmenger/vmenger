@@ -9,6 +9,6 @@ My name is Vincent Menger, and I'm a Machine Learning Engineer in the University
 
 ## Libraries
 The following public libraries are maintained (partly) by me:
-* [DEDUCE](deduce) - A library for de-identifying clinical text written in Dutch
-* [docdeid](docdeid) - A framework for creating de-identifiers, backbone of DEDUCE
-* [clinlp](clinlp) - A NLP pipeline library for clinical text written in Dutch
+* [DEDUCE](github.com/vmenger/deduce) - A library for de-identifying clinical text written in Dutch
+* [docdeid](github.com/vmenger/docdeid) - A framework for creating de-identifiers, backbone of DEDUCE
+* [clinlp](github.com/umcu/clinlp) - A NLP pipeline library for clinical text written in Dutch
